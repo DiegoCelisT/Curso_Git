@@ -1,0 +1,83 @@
+    1  ls
+    2  pwd
+    3  ls-a
+    4  ls -a
+    5  pwd
+    6  ls ..
+    7  cd d
+    8  cd Desktop
+    9  cdw
+   10  pwd
+   11  cat>readme.md
+   12  echo "s">read.me
+   13  echo "s">read.md
+   14  git config --global user.name 'Diego Celis'
+   15  git config --global user.email 'diegofercelis@gmail.com'
+   16  git config user.name
+   17  git config user.email
+   18  cd Desktop/
+   19  cd desktop/toti
+   20  cd TOTI/Projetos/
+   21  mkdir Curso Git
+   22  mkdir 'Curso Git'
+   23  rm -r Curso
+   24  cd 'Curso Git'
+   25  git config user.name
+   26  git init
+   27  git status
+   28  echo mensagem_1
+   29  echo 'mensagem_1'
+   30  echo 'prueba' >test.md
+   31  rm -r test.md
+   32  echo 'aprendendo usar o Git' >readme.md
+   33  git status
+   34  git add readme.md
+   35  git status
+   36  git commit -m 'Commit inicial' 
+   37  git status
+   38  echo 'mas cosas' >>readme.md
+   39  git status
+   40  echo 'aun mas' >readme.md
+   41  echo 'acm1pt' >readme.md
+   42  echo "mas cosas" >>readme.md
+   43  git status
+   44  git add
+   45  git add readme.md
+   46  git status
+   47  git status
+   48  git add readme.md
+   49  git status
+   50  echo "Diego Celis" >Segundo_archivo.md
+   51  git status
+   52  echo "tercer linea" >>readme.md
+   53  git status
+   54  git add .
+   55  git status
+   56  git status
+   57  echo "si un tercero de prueba men" >tercer_arquivo.md
+   58  git status
+   59  git add .
+   60  git status
+   61  git restore --staged Segundo_arquivo.md
+   62  git status
+   63  echo "modificacion" >>Segundo_arquivo.md
+   64  git status
+   65  echo "test" >>readme.md
+   66  rm -r Segundo_archivo.md
+   67  git status
+   68  git add .
+   69  git status
+   70  git restore --staged readme.md
+   71  git status
+   72  git restore --staged .
+   73  git status
+   74  git commit -am 'alteração no readme'
+   75  git status
+   76  git commit -am 'segundo commit ahora usando -am'
+   77  git status
+   78  git add .
+   79  git status
+   80  git commit -m 'adicionado os outros dois arquivos'
+   81  git status
+   82  history
+   83  history >Aula_3.txt
