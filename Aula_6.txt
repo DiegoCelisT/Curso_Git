@@ -1,0 +1,10 @@
+    1  clear
+    2  show commands
+    3  clear
+    4  git tag
+    5  git tag -a v0.1 -m 'Até a Aula 5'
+    6  git log --pretty=oneline --graph
+    7  git checkout master
+    8  git rebase feature
+    9  git log --pretty=oneline --graph
+   10  history > Aula_6.txt
