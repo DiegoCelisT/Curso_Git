@@ -1,4 +1,6 @@
-nabucodonosor 2
-mas cosas
-tercer linea
-test
+# Aprendendo usar o Git
+
+
+## Aula 1
+
+Empolgado com o aprendizado!
